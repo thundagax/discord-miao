@@ -1,3 +1,3 @@
 ## Miao ##
 
-Miao is a bot to teach the user to miao decently.
+Miao is a bot to teach user how to miao decently.
